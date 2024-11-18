@@ -1,0 +1,6 @@
+@RailwayDeployDemo_HostAddress = http://localhost:5215
+
+GET {{RailwayDeployDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

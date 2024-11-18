@@ -1,0 +1,7 @@
+[build]
+builder = "dockerfile"
+dockerfilePath = "./RailwayDeployDemo/Dockerfile"
+
+[deploy]
+startCommand = "dotnet RailwayDeployDemo.dll"
+restartPolicyType = "never"
