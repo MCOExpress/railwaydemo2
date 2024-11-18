@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailwayDeployDemo", "RailwayDeployDemo\RailwayDeployDemo.csproj", "{31FDB531-E07B-46EC-BEFF-31C529198BE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{9184CFA4-F0AD-47B9-A897-A4D946295898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{31FDB531-E07B-46EC-BEFF-31C529198BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31FDB531-E07B-46EC-BEFF-31C529198BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31FDB531-E07B-46EC-BEFF-31C529198BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9184CFA4-F0AD-47B9-A897-A4D946295898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9184CFA4-F0AD-47B9-A897-A4D946295898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9184CFA4-F0AD-47B9-A897-A4D946295898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9184CFA4-F0AD-47B9-A897-A4D946295898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
